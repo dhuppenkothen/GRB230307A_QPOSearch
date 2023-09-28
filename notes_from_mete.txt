@@ -1,0 +1,20 @@
+For na & b1, files have includes unbinned TTE times (named as tte_b1_time), barycentered times (named as b1_barytime), and the trigger time (named as btime). For INTEGRAL, it includes 50ms binned barycentered times and counts.
+
+For na & b1, I also add two text files below, which icludes barycentered times and counts (sav files does not include counts for na & b1). These are not background subtracted. These are in 8-700 and 200-10000 keV range, with 50 ms resolution, as we did in the submitted version.
+
+
+********************************************************************************
+********************************************************************************
+********************************************************************************
+
+As for priors, what we used for the whole duration of 60s is written in the submitted paper, you can check there. They were the same for all 3 detectors.
+
+In addition, we also tried to fit mean functions to some small parts of the bursts as well when you were in holiday so we did not discuss with you. What we tried are as follows: (i) 7-60s time range, (ii)7-18.225s time range, and (iii)0-60s range but with 4 different energy ranges (8-150keV & 150-700 keV for na  — 150-700 keV & 700-20000 keV for b1 )
+
+i- For 7-60s case, we got a good mean function via 3rd order polynomial (n_components=4) for three detectors. The priors are the same for na&b1; however, polynomial part of the priors are different for SPI-ACS. I don’t find any priors which gives a good enough mean function for all three detectors at the same. I am adding two pdfs showing priors below ("7-60_na_b1.pdf" and “7-60_integral.pdf”).
+
+ii- Between 7-18.225s (18.225s is when the SPI-ACS shows that strong count decrease):
+We used 1-skew Gaussian (priors are below in a pdf called "7-18.225_all_three.pdf")
+
+iii- For 4 energy ranges & 0-60s time range (including 3-7s), we used single skew Gaussian (priors are below as “Four_Energy_Ranges.pdf”, which is same for all three detectors all 4 ranges)
+

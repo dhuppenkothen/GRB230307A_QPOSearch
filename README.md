@@ -18,6 +18,11 @@ This analysis requires the following packages
 * matplotlib
 * seaborn 
 * stingray (latest development version)
+* tensorflow probability
+* etils
+* JAX
+* jaxns
+
 
 ## Copyright
 
