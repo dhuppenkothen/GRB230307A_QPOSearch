@@ -28,18 +28,3 @@ This analysis requires the following packages
 
 Copyright belongs to the authors, all rights reserved## Copyright
 
-Copyright belongs to the authors, all rights reserved## Copyright
-
-Copyright belongs to the authors, all rights reserved## Copyright
-
-Copyright belongs to the authors, all rights reserved## Copyright
-
-Copyright belongs to the authors, all rights reserved## Copyright
-
-Copyright belongs to the authors, all rights reserved## Copyright
-
-Copyright belongs to the authors, all rights reserved## Copyright
-
-Copyright belongs to the authors, all rights reserved## Copyright
-
-Copyright belongs to the authors, all rights reserved
