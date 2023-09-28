@@ -17,6 +17,7 @@ This analysis requires the following packages
 * scipy
 * matplotlib
 * seaborn 
+* Jupyter
 * stingray (latest development version)
 * tensorflow probability
 * etils
@@ -26,5 +27,5 @@ This analysis requires the following packages
 
 ## Copyright
 
-Copyright belongs to the authors, all rights reserved## Copyright
+Copyright belongs to the authors, all rights reserved
 
