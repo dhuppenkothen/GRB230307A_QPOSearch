@@ -19,7 +19,8 @@ This analysis requires the following packages
 * seaborn 
 * Jupyter
 * stingray (latest development version)
-* tensorflow probability
+* tensorflow
+* tensorflow-probability
 * etils
 * JAX
 * jaxns
