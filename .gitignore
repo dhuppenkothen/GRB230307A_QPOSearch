@@ -1,0 +1,8 @@
+*.pkl
+*lcsim*.dat
+*.npy
+.DS_Store
+code/__pycache__/
+data/Archive.zip
+data/__MACOSX/
+notebooks/.ipynb_checkpoints/
