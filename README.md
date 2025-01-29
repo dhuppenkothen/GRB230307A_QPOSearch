@@ -4,11 +4,13 @@ This repository contains all code related to the QPO search analysis in GRB 2303
 
 ## Authors
 * Daniela Huppenkothen
+* Matthew G. Baring
 * Mete Uzuner
 * Ersin Gogus
-* Matthew Baring
+* Yuki Kaneko
 * Chryssa Kouveliotou
 * Oliver Roberts
+* Lin Lin
 
 ## Requirements
 This analysis requires the following packages
@@ -24,7 +26,8 @@ This analysis requires the following packages
 * etils
 * JAX
 * jaxns
-
+* numpyro
+* tinygp
 
 ## Copyright
 
